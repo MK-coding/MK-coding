@@ -1,0 +1,31 @@
+# Ignore compiled binaries and object files
+*.o
+*.out
+*.exe
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+
+# Ignore cache and log files
+*.pyc
+*.log
+
+# Ignore environment files
+.env
+venv/
+env/
+
+# Ignore generated files
+*.pdf
+*.docx
+*.xlsx
+
+# Ignore sensitive files
+*.key
+*.pem
+*.psd
+
+# Ignore other miscellaneous files
+*.DS_Store
+Thumbs.db
